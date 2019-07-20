@@ -1,1 +1,1 @@
-# hexacoin
+# Hexacoin
