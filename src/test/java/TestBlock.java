@@ -21,7 +21,12 @@ public class TestBlock {
     }
 
     @Test
-    public void testBlockCreation() {
+    public void testBlockCreationGenesis() {
         assertTrue(block.index == 1);
+    }
+
+    @Test
+    public void testSecndBlock(){
+
     }
 }
